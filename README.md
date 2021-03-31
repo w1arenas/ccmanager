@@ -38,4 +38,4 @@ As a user, I can:
 
 ## Landing page
 
-![](../assets/ccd-landing.png)
+![](./assets/ccd-landing.png)
