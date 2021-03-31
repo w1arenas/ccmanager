@@ -40,3 +40,26 @@ As a user, I can:
 
 ![](./assets/images/ccm-landing.png)
 
+## Login prompt
+
+![](./assets/images/ccm-login.png)
+
+## All credit cards view
+
+![](./assets/images/ccm-allcc.png)
+
+## Add a credit card view
+
+![](./assets/images/ccm-addcc.png)
+
+## Individual credit card view
+
+![](./assets/images/ccm-ccview.png)
+
+## Update credit card view
+
+![](./assets/images/ccm-update.png)
+
+## Credit card analysis view
+
+![](./assets/images/ccm-analysis.png)
