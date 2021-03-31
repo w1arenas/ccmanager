@@ -1,18 +1,25 @@
 # CREDIT CARD MANAGER APP
 The Credit Card Manager is an app that will allow a user to enter credit card information. It features a tool to project accelerated payments and gauge the benefits of eliminating credit-card debt by showing the savings in interest charges that the user can realize by accelerating payments.
 
-# Minimum Viable Product (MVP)
+## Minimum Viable Product (MVP)
 - Full CRUD implementation.
-- Full stack application using MERN functionality ( Mongoose, Express, React, Node.js).
+- Full stack application using MERN functionality (Mongoose, Express, React, Node.js).
 - Models, Views and Controllers (MVC) structure.
 - Deployed online and accessible to the public.
 - Git repository with daily commits.
 
-# New Technologies
-- Styled Components - CSS-in-JS tool that uses a conbination of Tagged Template Literals (a recent addition to Java Script) and CSS to apply easy-to-manage styles to React components.
-- Implementation of graphs in front end.
+## New Technologies
+- Styled Components - CSS-in-JS tool that uses a conbination of Tagged Template Literals (a recent addition to Java Script) and CSS to apply easy-to-manage styles to React components 
+[Links](https://styled-components.com/).
+- Implementation of graphs in front end using Recharts 
+[Links](https://recharts.org/en-US).
 - Functional React - funtional components with hooks to enable state in functions.
+[Links](https://reactjs.org/docs/hooks-state.html)
 - PropType validation.
+[Links](https://reactjs.org/docs/typechecking-with-proptypes.html)
+
+## Stretch Goals
+- Authorization - sign up/log in functionality.
 
 # User Story
 As a user, I can:
@@ -51,10 +58,6 @@ As a user, I can:
 
 ![](./assets/images/ccm-landing.png)
 
-## Login prompt
-
-![](./assets/images/ccm-login.png)
-
 ## All credit cards view
 
 ![](./assets/images/ccm-allcc.png)
@@ -74,3 +77,9 @@ As a user, I can:
 ## Credit card analysis view
 
 ![](./assets/images/ccm-analysis.png)
+
+# Stretch
+
+## Login prompt
+
+![](./assets/images/ccm-login.png)
